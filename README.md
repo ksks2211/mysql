@@ -1,5 +1,5 @@
 # Distbetweencities
-Calculate distance in km between cities using their latitude and longitude using Mysql stored function.
+Calculate distance in km between cities using their latitude and longitude from Mysql stored function.
 
 
 - Haversine formula
